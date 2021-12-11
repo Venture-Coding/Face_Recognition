@@ -29,6 +29,6 @@ Could be as low as 5 for Snapchat like filters that just use few Face Landmarks 
 Could be as high as 64 or 128.  Eg shown below with 64 face landmarks.   
 <img width="441" alt="Screenshot 2021-12-12 at 2 21 43 AM" src="https://user-images.githubusercontent.com/61674750/145691246-8608048f-199c-4cad-8930-d557b6558751.png">  
   
-### Face Landmarks  
+### Face Encodings  
 
 Converting face into face-encodings means simply storing the values of all the measurements of theh face measured between different face-locations found earlier. Usually around 128 face-encodings are used. These represent a vector that point towards a point in the n-dimensional space. Any other input face that generates an encoding which points to a point close enough to the earlier point, it is most probably the same or similar face predicted.
