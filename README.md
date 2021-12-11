@@ -13,3 +13,4 @@ Some commonly used APIs :
 Open Sourced :  
 - OpenFace  
 - dlib  
+- face_recognition
