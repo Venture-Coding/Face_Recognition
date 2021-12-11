@@ -8,4 +8,8 @@ Uses:
 
 Some commonly used APIs :  
 - Amazon Rekognition  
-- MS Azure Face 
+- MS Azure Face  
+  
+Open Sourced :  
+- OpenFace  
+- dlib  
