@@ -31,4 +31,8 @@ Could be as high as 64 or 128.  Eg shown below with 64 face landmarks.
   
 ### Face Encodings  
 
-Converting face into face-encodings means simply storing the values of all the measurements of theh face measured between different face-locations found earlier. Usually around 128 face-encodings are used. These represent a vector that point towards a point in the n-dimensional space. Any other input face that generates an encoding which points to a point close enough to the earlier point, it is most probably the same or similar face predicted.
+Converting face into face-encodings means simply storing the values of all the measurements of theh face measured between different face-locations found earlier. Usually around 128 face-encodings are used. These represent a vector that point towards a point in the n-dimensional space. Any other input face that generates an encoding which points to a point close enough to the earlier point, it is most probably the same or similar face predicted.  
+  
+Notes:    
+Digital makeup code gives opportunity to highlight various named features stored in the face_locations.  
+Similarity code compares input pic with stored pics, to decide which of the stored pics is most similar to the input.
