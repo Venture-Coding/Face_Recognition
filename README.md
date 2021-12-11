@@ -23,4 +23,7 @@ Viola Jones Algo >> Histogram Oriented Gradients HOG >> CNN
 HOG is color independent, as it takes grayscale images and also resistant to lighting.  
 Ex. <img width="302" alt="Screenshot 2021-12-12 at 1 57 00 AM" src="https://user-images.githubusercontent.com/61674750/145690705-2756fda0-5c5d-4792-b609-bea5e0029b16.png">
 
-Snapchat like filters just use Face Landmarks to customize and align filters for the snaps and videos.
+### Face Landmarks 
+
+Could be as low as 5 for Snapchat like filters that just use few Face Landmarks to customize and align filters for the snaps and videos.  
+Could be as high as 64 or 128.
