@@ -19,4 +19,7 @@ Open Sourced :
   
 Subsequent developments :  
 Viola Jones Algo >> Histogram Oriented Gradients HOG >> CNN 
+  
+HOG is color independent, as it takes grayscale images and also resistant to lighting.  
+Ex. <img width="602" alt="Screenshot 2021-12-12 at 1 57 00 AM" src="https://user-images.githubusercontent.com/61674750/145690705-2756fda0-5c5d-4792-b609-bea5e0029b16.png">
 
