@@ -15,7 +15,7 @@ Open Sourced :
 - dlib  
 - face_recognition.   
   
-<img width="400" alt="Screenshot 2021-12-12 at 1 52 17 AM" src="https://user-images.githubusercontent.com/61674750/145690569-310066e1-7da7-4ab7-94b7-634b6c168713.png">  
+<img width="302" alt="Screenshot 2021-12-12 at 1 52 17 AM" src="https://user-images.githubusercontent.com/61674750/145690569-310066e1-7da7-4ab7-94b7-634b6c168713.png">  
   
 Subsequent developments :  
 Viola Jones Algo >> Histogram Oriented Gradients HOG >> CNN 
@@ -26,5 +26,5 @@ Ex. <img width="302" alt="Screenshot 2021-12-12 at 1 57 00 AM" src="https://user
 ### Face Landmarks 
 
 Could be as low as 5 for Snapchat like filters that just use few Face Landmarks to customize and align filters for the snaps and videos.  
-Could be as high as 64 or 128.  Eg shown below with 64 face landmarks. 
-<img width="272" alt="Screenshot 2021-12-12 at 2 21 43 AM" src="https://user-images.githubusercontent.com/61674750/145691246-8608048f-199c-4cad-8930-d557b6558751.png">
+Could be as high as 64 or 128.  Eg shown below with 64 face landmarks.   
+<img width="302" alt="Screenshot 2021-12-12 at 2 21 43 AM" src="https://user-images.githubusercontent.com/61674750/145691246-8608048f-199c-4cad-8930-d557b6558751.png">
