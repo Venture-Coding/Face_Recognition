@@ -14,7 +14,9 @@ Open Sourced :
 - OpenFace  
 - dlib  
 - face_recognition.   
-- 
-<img width="400" alt="Screenshot 2021-12-12 at 1 52 17 AM" src="https://user-images.githubusercontent.com/61674750/145690569-310066e1-7da7-4ab7-94b7-634b6c168713.png">
-
+  
+<img width="400" alt="Screenshot 2021-12-12 at 1 52 17 AM" src="https://user-images.githubusercontent.com/61674750/145690569-310066e1-7da7-4ab7-94b7-634b6c168713.png">  
+  
+Subsequent developments :  
+Viola Jones Algo >> Histogram Oriented Gradients HOG >> CNN 
 
